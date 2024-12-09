@@ -37,4 +37,10 @@ main h1{
 main h2{
     font-family: var(--fonte-android);
 }
- 
+ table{
+    width: 500px;
+
+ }
+ td , th{
+    border: 1px solid var(--cor3);
+ }
