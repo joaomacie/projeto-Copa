@@ -138,6 +138,32 @@ aside > h3{
     margin: -10px -10px 0pz -10px;
     border-radius: 10px 10px 0px 0px ;
 }
+aside > table{
+    width: 400px;
+    border-collapse: collapse;
+}
+aside > td{
+    border: 1px solid var(--cor4);
+    padding: 10px;
+}
+aside> th{
+    border: 1px solid var(--cor5);
+    padding: 10px;
+}
+
+thead,tfoot{
+    background-color: var(--cor5);
+    color: var(--cor2);
+}
+aside> td.pontos{
+        text-align: right;
+}
+aside> td,.Fica{
+   color:red;
+}
+
+
+
 footer{
     background-color: var(--cor5);
     color: white;
@@ -154,4 +180,5 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
+ 
  
