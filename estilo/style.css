@@ -139,16 +139,16 @@ aside > h3{
     border-radius: 10px 10px 0px 0px ;
 }
 aside > table{
-    width: 400px;
+    width: 300px;
     border-collapse: collapse;
 }
 aside > td{
     border: 1px solid var(--cor4);
-    padding: 10px;
+    padding: 9px;
 }
 aside> th{
     border: 1px solid var(--cor5);
-    padding: 10px;
+    padding: 9px;
 }
 
 thead,tfoot{
