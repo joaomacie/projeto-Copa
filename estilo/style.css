@@ -158,6 +158,9 @@ thead,tfoot{
 aside> td.pontos{
         text-align: right;
 }
+aside> td,.Fica{
+   color:red;
+}
 
 
 
