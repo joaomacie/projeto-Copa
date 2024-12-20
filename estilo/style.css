@@ -1,3 +1,4 @@
+ 
 @charset "UTF-8";
 
 
@@ -144,11 +145,11 @@ aside > table{
 }
 aside > td{
     border: 1px solid var(--cor4);
-    padding: 10px;
+    padding: 5px;
 }
 aside> th{
     border: 1px solid var(--cor5);
-    padding: 10px;
+    padding: 8px;
 }
 
 thead,tfoot{
@@ -180,4 +181,5 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
+ 
  
